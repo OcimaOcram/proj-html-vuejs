@@ -25,9 +25,9 @@
 
 
     <div class="wave">
-        <svg viewBox="0 0 500 500" preserveAspectRatio="xMinYMin meet">
+        <!-- <svg viewBox="0 0 500 500" preserveAspectRatio="xMinYMin meet">
             <path d="M0,100 C150,100 350,0 50,100 L500,00 L0,0 Z" style="stroke: none; fill: white;"></path>
-        </svg>
+        </svg> -->
     </div>
 
 
@@ -82,7 +82,7 @@ li {
 }
 svg {
   display: inline-block;
-  position: absolute;
+//   position: absolute;
   top: 0;
   left: 0;
   background-color: rgba(0, 255, 255, 0);

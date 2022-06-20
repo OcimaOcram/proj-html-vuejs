@@ -68,6 +68,7 @@ li {
 img {
     width: 100%;
     
+    
 }
 .red {
     color:red;
