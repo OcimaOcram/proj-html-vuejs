@@ -4,6 +4,7 @@
     <PopolarDishes/>
     <MenuCategories/>
     <DownloadApp/>
+    <LatestNews/>
   </div>
 </template>
 
@@ -12,6 +13,7 @@ import MyHeader from './components/MyHeader.vue';
 import PopolarDishes from './components/PopolarDishes.vue';
 import MenuCategories from './components/MenuCategories.vue';
 import DownloadApp from './components/DownloadApp.vue';
+import LatestNews from './components/LatestNews.vue';
 
 
 export default {
@@ -20,7 +22,8 @@ export default {
     MyHeader,
     PopolarDishes,
     MenuCategories,
-    DownloadApp
+    DownloadApp,
+    LatestNews
 }
 }
 </script>

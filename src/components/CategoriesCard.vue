@@ -44,7 +44,7 @@ export default {
                 categoria:"Sides",              
             },
             {
-                img:require("../assets/img/donut-burger-700x1000.jpg"),
+                img:require("../assets/img/desserts-menu-background.jpg"),
                 categoria:"Dessert",
             },
             {

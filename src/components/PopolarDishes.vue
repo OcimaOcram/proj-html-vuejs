@@ -91,9 +91,9 @@ svg {
   display: inline-block;
   position: relative;
   width: 100%;
-  padding-bottom: 100%;
-  vertical-align: middle;
-  overflow: hidden;
+  margin-top: 10%;
+  padding-bottom: 40%;
+  vertical-align: middle;  
   background-image: url(../assets/img/first-order-background-scaled.jpg);
   background-repeat: no-repeat;
   background-size: contain;
